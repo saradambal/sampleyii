@@ -6,7 +6,7 @@ $this->breadcrumbs=array(
 
 ?>
 
-<h1>Create User</h1>
+<h1>Create UserSSSSS</h1>
 <hr/>
 <?php 
 $this->beginWidget('zii.widgets.CPortlet', array(
